@@ -19,24 +19,25 @@
 
 - Registration and password recovery
 
-https://github.com/KovshefulCoder/Tasku/assets/84292117/e226fc0a-74db-438a-8377-54953354ccd9
+https://github.com/KovshefulCoder/Tasku/assets/84292117/0ca84d7d-1504-4e10-a367-75fc0b6e1f5f
 
-https://github.com/KovshefulCoder/Tasku/assets/84292117/8aa2041b-1081-4992-ac37-e024b78c13cf
+https://github.com/KovshefulCoder/Tasku/assets/84292117/805cbfaf-7da3-4d55-addf-b52d6fbf6b17
 
 
 - Example of MAB work
 
-https://github.com/KovshefulCoder/Tasku/assets/84292117/e5e904fa-48cc-48e3-9cb8-2eaec889aca8
+https://github.com/KovshefulCoder/Tasku/assets/84292117/56880b72-bfd4-409e-adca-efa0caf42dc0
 
 
 - How to create task
 
-https://github.com/KovshefulCoder/Tasku/assets/84292117/572c5038-9b8d-4f94-a545-54b2c1f0deb0
+https://github.com/KovshefulCoder/Tasku/assets/84292117/23a1adce-7570-46cb-8dfa-7eb04d36e0ea
 
 
 - Set task`s parameters
 
-https://github.com/KovshefulCoder/Tasku/assets/84292117/182ef274-fd50-40ad-b530-64e44421ee8c
+https://github.com/KovshefulCoder/Tasku/assets/84292117/5dc0ec67-b5b7-471e-8cf6-f7fe9361c33f
+
 
 
     

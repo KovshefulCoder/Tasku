@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Tasku</string>
+
+    <!-- Auth -->
+    <string name="auth_email_placeholder">Email</string>
+    <string name="auth_password_placeholder">Password</string>
+    <string name="auth_repeat_password_placeholder">Repeat password</string>
+    <string name="password_invalid">Invalid password</string>
+    <string name="repeated_password_invalid">Passwords do not match</string>
+    <string name="ellipsis">...</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="google_auth_button">Continue with Google</string>
+    <string name="bottom_button_dscription_sign_in">Don\'t have an account?</string>
+    <string name="sign_in_button">Sign in</string>
+    <string name="bottom_button_dscription_sign_up">Already have an account?</string>
+    <string name="sign_up_button">Sign up</string>
+    <string name="title_activity_authentication_screen_view_model">AuthenticationScreenViewModel</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="password_recovery_title">Password recovery</string>
+    <string name="forgot_password_text">To recover the password, write your email address </string>
+    <string name="forgot_password_button_text">Send me recovery link</string>
+    <string name="new_password_title">Enter new password</string>
+    <string name="new_password_button_text">Update password</string>
+    <!-- Auth dialog -->
+    <string name="success_signup_title">Confirmation link was sent to your email</string>
+    <string name="success_signup_text">Click on it to get access to your account</string>
+    <string name="success_forgot_pswrd_text">
+        Link for creation of a new password was sent to your email: </string>
+
+
+    <!-- Main menu -->
+    <string name="main_menu_inbox">Inbox</string>
+    <string name="main_menu_all">All</string>
+    <string name="main_menu_today">Today</string>
+    <string name="main_menu_upcoming">Upcoming</string>
+    <string name="main_menu_someday">Someday</string>
+    <string name="main_menu_journal">Journal</string>
+    <string name="main_menu_search_placeholder">Search</string>
+    <string name="main_menu_settings">Settings</string>
+    <string name="placeholder_text_textfield_under_fab">New area</string>
+
+
+    <!-- Task -->
+    <string name="placeholder_task_title">Title</string>
+    <string name="placeholder_task_description">Description</string>
+
+
+</resources>
